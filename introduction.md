@@ -12,3 +12,9 @@ Github : [TrojanVirulent](https://github.com/TrojanVirulent) (https://github.com
 
 LinkedIn : [Prabhutosh Panda](https://www.linkedin.com/in/prabhutosh-panda-392539172) (https://www.linkedin.com/in/prabhutosh-panda-392539172)
 
+3). **Name : Koji Adriano Jr.**
+
+Github : [Koji Adriano Jr.](https://github.com/kojiadrianojr) (https://github.com/kojiadrianojr)
+
+LinkedIn : [Koji Adriano Jr.](https://www.linkedin.com/in/koji-adriano-289826172/) (https://www.linkedin.com/in/koji-adriano-289826172/)
+
