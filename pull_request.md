@@ -1,4 +1,4 @@
-# Pull Request Template
+# Step-by-Step technical guide for your first open source contribution
 
 ## Choose a project and issue to work on
 A set of files for a project is called a Repository, and Issues are where people ask for help fixing things.
